@@ -4,9 +4,13 @@ Trendy Trends is a food ordering application where users can explore a variety o
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 1](public/screenshots/screenshot1.png)
+![Screenshot 2](public/screenshots/screenshot2.png)
+![Screenshot 3](public/screenshots/screenshot3.png)
+![Screenshot 3](public/screenshots/screenshot4.png)
+![Screenshot 3](public/screenshots/screenshot5.png)
+![Screenshot 3](public/screenshots/screenshot6.png)
+![Screenshot 3](public/screenshots/screenshot7.png)
 
 ## Features
 
